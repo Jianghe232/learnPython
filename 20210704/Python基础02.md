@@ -31,4 +31,4 @@
 * 退出循环
 
   * break 完全退出
-  * continu 跳过本次循环
+  * continue 跳过本次循环
